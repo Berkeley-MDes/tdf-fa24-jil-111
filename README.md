@@ -28,7 +28,7 @@ This week, I watched the Design in Tech Report Video because I am curious about 
 introduces what computational design as and why we need this. Specifically, in my screenshots below, it highlights the design
 education biases back in 2017, which gives me some thinking about the design frameworks that I have been following in the past, which is the use of empathy. This is interesting to see how using empathy to design was an educational biases back then. The limit of empathy should be emphasized in many of my designs. 
 
-![Alt text](assets/Screenshot 2024-09-05 at 11.21.07.png)
+![Alt text](tdf-fa24-jil-111/assets/Tech-Report-Screenshot)
 
 
 ---
