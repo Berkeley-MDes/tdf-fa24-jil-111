@@ -24,12 +24,15 @@ The specific file that I’m typing into right now is the **README.md** for this
 
 ## 1. Design in Tech 2017 Report Video
 
-This week, I watched the Design in Tech Report Video because I am curious about our firt project. This video brielfy 
-introduces what computational design as and why we need this. Specifically, in my screenshots below, it highlights the design
-education biases back in 2017, which gives me some thinking about the design frameworks that I have been following in the past, which is the use of empathy. This is interesting to see how using empathy to design was an educational biases back then. The limit of empathy should be emphasized in many of my designs. 
+This week, I watched the Design in Tech Report Video because I am curious about our first project. This video briefly 
+introduces what computational design is and why we need this. Specifically, in my screenshots below, it highlights the design
+education biases back in 2017, which gives me some thinking about the design frameworks that I have been following in the past, which is the use of empathy. It is interesting to see how using empathy to design was a Top 2 educational biases back then. The limit of empathy should be emphasized in many of my designs. 
 
 ![Alt text](assets/Tech-Report-Screenshot)
 
+## 1. Design in Tech 2017 Report Video
+
+I have also import the 3D models I have downloaded from the internet to Cura.
 
 ---
 
