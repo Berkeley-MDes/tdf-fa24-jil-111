@@ -22,9 +22,14 @@ The specific file that I’m typing into right now is the **README.md** for this
 # Week 1: Example Report 1 #
 ## Week of 09/05/2024
 
-This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
+# Week 1 Reflection #
+## Week of 09/05/2024
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
+## 1. Design in Tech 2017 Report Video
+
+This week, I watched the Design in Tech Report Video because I am curious about our firt project. This video brielfy 
+introduces what computational design as and why we need this. 
+
 
 ---
 
