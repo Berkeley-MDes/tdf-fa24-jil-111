@@ -42,7 +42,7 @@ education biases back in 2017, which gives me some thinking about the design fra
 
 I have also import the 3D models I have downloaded from the internet to Cura.
 
-![Alt text](assets/Week1-Cura)
+![Alt text](assets/Weekone-Cura)
 ---
 
 
