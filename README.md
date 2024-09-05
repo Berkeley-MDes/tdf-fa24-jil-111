@@ -19,16 +19,16 @@ The specific file that I’m typing into right now is the **README.md** for this
 
 ### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/24f-desinv-202/wiki/3.0-Weekly-Submissions#weekly-progress-report). They might look something like this: ###
 
-# Week 1: Example Report 1 #
-## Week of 09/05/2024
-
 # Week 1 Reflection #
-## Week of 09/05/2024
+### Week of 09/05/2024
 
 ## 1. Design in Tech 2017 Report Video
 
 This week, I watched the Design in Tech Report Video because I am curious about our firt project. This video brielfy 
-introduces what computational design as and why we need this. 
+introduces what computational design as and why we need this. Specifically, in my screenshots below, it highlights the design
+education biases back in 2017, which gives me some thinking about the design frameworks that I have been following in the past, which is the use of empathy. This is interesting to see how using empathy to design was an educational biases back then. The limit of empathy should be emphasized in many of my designs. 
+
+![Alt text](assets/Screenshot 2024-09-05 at 11.21.07.png)
 
 
 ---
