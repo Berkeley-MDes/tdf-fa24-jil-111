@@ -34,7 +34,7 @@ PPS:
 
 This week, I watched the Design in Tech Report Video because I am curious about our first project. This video briefly 
 introduces what computational design is and why we need this. While watching this video, I would randomly put some key words on my notebook to get myself focused since it is a long video. 
-![Alt text](assets/Tech-Report-Screenshot)
+![Alt text](assets/Hand-writtenNotes.JPG)
 Specifically, in my screenshots below, it highlights the design
 education biases back in 2017, which gives me some thinking about the design frameworks that I have been following in the past, which is the use of empathy. It is interesting to see how using empathy to design was a Top 2 educational biases back then. The limit of empathy should be emphasized in many of my designs. 
 ![Alt text](assets/Tech-Report-Screenshot)
