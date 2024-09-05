@@ -44,7 +44,7 @@ In order to explore how to deal with limit of empathy, I read an article The Pro
 
 ## 2. Using 3D Printer
 
-I have also import the 3D models I have downloaded from the internet to Cura. I followed the instructions and successfully 3D printing the obejcts. In the following week, I will start to explore whether Maya could be imported to Cura or other useful software tools. I have also started Rhino Tutorial and am excited to learn more about Grasshopper as well. 
+I also imported the 3D models I downloaded from the internet to Cura. I followed the instructions and successfully 3D printing the obejcts. In the following week, I will start to explore whether Maya could be imported to Cura or other useful software tools. I have also started Rhino Tutorial and am excited to learn more about Grasshopper as well. This week I will explore more aspects about computational design from papers and videos online to be more specific about my first project. 
 
 ![Alt text](assets/Weekone-Cura)
 ---
