@@ -19,5 +19,12 @@ I also imported the 3D models I downloaded from the internet to Cura. I followed
 
 ![Alt text](assets/Weekone-Cura)
 ---
+# Week 2 Reflection #
+### Week of 09/12/2024
+
+## 1. Basics on Rhino
+
+In the workshop of the Tuesady's class, I went over the basics of Rhino. For example, how to create the squares, the curve lines. 
+
 
 
