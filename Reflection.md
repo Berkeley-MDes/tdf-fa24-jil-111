@@ -24,7 +24,7 @@ I also imported the 3D models I downloaded from the internet to Cura. I followed
 
 ## 1. Basics on Rhino
 
-In the workshop of the Tuesady's class, I went over the basics of Rhino. For example, how to create the squares, the curve lines. 
+In the workshop of the Tuesady's class, I went over the basics of Rhino. For example, how to create the squares, the curve lines. ![Alt text](assets/BasicsRhino.png) It is interesting that everything on Rhino is based on the command line, which I was not very familiar with. 
 
 
 
