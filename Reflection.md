@@ -26,5 +26,10 @@ I also imported the 3D models I downloaded from the internet to Cura. I followed
 
 In the workshop of the Tuesady's class, I went over the basics of Rhino. For example, how to create the squares, the curve lines. ![Alt text](assets/BasicsRhino.png) It is interesting that everything on Rhino is based on the command line, which I was not very familiar with. 
 
+## 2. Basics on Grasshopper
+
+### Grasshopper Tutorial 01
+I followed a youtube video to get started with Grasshopper because I am still confused about many components in the PhoneStand file. I think I would need some time to get familiar with Grasshopper more by starting to create some simple things first. In the tutorial 1, I have learned how to move a sphere using Grasshopper by connecting Geom Component with sphere on Rhino -> adding Move Component -> adding number Slider to control the range of movement. 
+
 
 
