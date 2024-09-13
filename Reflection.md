@@ -51,7 +51,7 @@ I followed the youtube video I emntioned earlier and learned three differnent co
 3. Divide Length
    - Input: C-curve; L-Length we define
    - Output: PolineLine Component
-4. 
+   ![Alt text](assets/twoCurveDistance.png)
 
      
 
