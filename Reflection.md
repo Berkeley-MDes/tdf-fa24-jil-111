@@ -34,3 +34,10 @@ I followed a youtube video to get started with Grasshopper because I am still co
 
 The link for the tutorial is here (https://www.youtube.com/watch?v=your_video_id)
 
+### Grasshopper Tutorial 02 Dividing Cureves
+I followed the youtube video I emntioned earlier and learned three differnent components to divide a curve. I took notes of the logic of using these components.
+
+1. Divide Curve
+   - Input: C-curve; N-Number of segements in this curve(use number slider to define by myself)
+   - Output: P-Shatter Component(we need indivisual segment of the curve); Shatter has 't' as a value to represent a point in the curve(we need to link the input 't' in Shatter with output 't' in Divide Line. 
+
