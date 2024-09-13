@@ -48,6 +48,10 @@ I followed the youtube video I emntioned earlier and learned three differnent co
    - Input: C-curve; D-Distance we define
    - Output: PolineLine Component
   ![Alt text](assets/weektwoDiDist.png)
+3. Divide Length
+   - Input: C-curve; L-Length we define
+   - Output: PolineLine Component
+4. 
 
      
 
