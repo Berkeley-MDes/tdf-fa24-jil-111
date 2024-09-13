@@ -58,7 +58,9 @@ I followed the youtube video I emntioned earlier and learned three differnent co
    - Steps: In Rhino, Create a curve and in Command line "Extrude curve" to create the surface
    - Input: Domain-Surface; U count and V count- Number Slider;
    - Output: IsoTrim to divide the the surfaces
-   isotrimSurface
+  ![Alt text](assets/isotrimSurface.png)
+
+
 
      
 
