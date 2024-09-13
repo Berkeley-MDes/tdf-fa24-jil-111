@@ -34,7 +34,7 @@ I followed a youtube video to get started with Grasshopper because I am still co
 
 The link for the tutorial is here (https://www.youtube.com/watch?v=your_video_id)
 
-### Grasshopper Tutorial 02 Dividing Cureves
+### Grasshopper Tutorial 02 Dividing Curves
 I followed the youtube video I emntioned earlier and learned three differnent components to divide a curve. I took notes of the logic of using these components.
 
 1. Divide Curve
@@ -52,6 +52,13 @@ I followed the youtube video I emntioned earlier and learned three differnent co
    - Input: C-curve; L-Length we define
    - Output: PolineLine Component
    ![Alt text](assets/twoCurveDistance.png)
+
+### Grasshopper Tutorial 03 Dividing Surfaces
+1. Divide Domain
+   - Steps: In Rhino, Create a curve and in Command line "Extrude curve" to create the surface
+   - Input: Domain-Surface; U count and V count- Number Slider;
+   - Output: IsoTrim to divide the the surfaces
+   isotrimSurface
 
      
 
