@@ -39,5 +39,6 @@ I followed the youtube video I emntioned earlier and learned three differnent co
 
 1. Divide Curve
    - Input: C-curve; N-Number of segements in this curve(use number slider to define by myself)
-   - Output: P-Shatter Component(we need indivisual segment of the curve); Shatter has 't' as a value to represent a point in the curve(we need to link the input 't' in Shatter with output 't' in Divide Line. 
+   - Output: P-Shatter Component(we need indivisual segment of the curve); Shatter has 't' as a value to represent a point in the curve(we need to link the input 't' in Shatter with output 't' in Divide Line.
+  ![Alt text](assets/divideCurve.png)
 
