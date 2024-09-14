@@ -43,7 +43,7 @@ I followed the youtube video I emntioned earlier and learned three differnent co
   ![Alt text](assets/divideCurve.png)
    - Output2(PolyLine): Use PoliLine Component to divide the curve into straightline. Hit Option+Space to bake the line in Rhino. 
   ![Alt text](assets/divideCurvToLine.png)
-   - 
+   - Divide Curve component already breaks the curve into a series of points; however, it does not actually split the curve into segments or pieces. Instead, Divide Curve only provides points along the curve at specified intervals but does not alter the curve itself.
 2. Divide Distance
    - Input: C-curve; D-Distance we define
    - Output: PolineLine Component
