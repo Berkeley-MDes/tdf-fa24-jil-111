@@ -59,6 +59,12 @@ I followed the youtube video I emntioned earlier and learned three differnent co
    - Input: Domain-Surface; U count and V count- Number Slider;
    - Output: IsoTrim to divide the the surfaces
   ![Alt text](assets/isotrimSurface.png)
+2. Divide Curve
+   - Overall Logics
+     a. Divide a curve into points.
+     b. Use the Shatter to break the curve into segments based on the points.
+     c. Extrude each curve segment along the Z-axis to give the segments a 3D height.
+     d. Apply a Linear Array to duplicate the geometry along a given direction. 
 
 
 
