@@ -64,7 +64,10 @@ I followed the youtube video I emntioned earlier and learned three differnent co
      a. Divide a curve into points.
      b. Use the Shatter to break the curve into segments based on the points.
      c. Extrude each curve segment along the Z-axis to give the segments a 3D height.
-     d. Apply a Linear Array to duplicate the geometry along a given direction. 
+     d. Apply a Linear Array to duplicate the geometry along a given direction.
+     ![Alt text](assets/DivCurv.png)
+![Alt text](assets/divCurveSurface.png)
+
 
 
 
