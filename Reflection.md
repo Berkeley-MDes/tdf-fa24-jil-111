@@ -71,7 +71,7 @@ I followed the youtube video I emntioned earlier and learned three differnent co
      ![Alt text](assets/DivCurv.png)
 ![Alt text](assets/divCurveSurface.png)
 
-### Project for the Class
+### Project for the Class(Bracelet Holder)
 
 ![Alt text](assets/slide1.png)
 ![Alt text](assets/slide2.png)
@@ -86,6 +86,12 @@ I followed the youtube video I emntioned earlier and learned three differnent co
 ![Alt text](assets/slide11.png)
 
 ![Alt text](assets/workflow.png)
+### Another project on Phone stand
+I tried to created the phone stand on my own, using the logic of points-curves-surface-solid. The process is very time-consuming and I encountered problems such as how to close the surface, how to transforms the surface into solid... With the help Chat GPT and classmates, I was able to generate the right phone stand I want. I used SetSurface in Rhino to transform the surface into 3D models that is printable. 
+
+![Alt text](assets/phoenstan1.png)
+![Alt text](assets/phoenstand2.png)
+![Alt text](assets/phonestand.png)
 
 
 
