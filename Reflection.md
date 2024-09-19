@@ -85,6 +85,7 @@ I followed the youtube video I emntioned earlier and learned three differnent co
 ![Alt text](assets/slide10.png)
 ![Alt text](assets/slide11.png)
 
+![Alt text](assets/workflow.png)
 
 
 
