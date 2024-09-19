@@ -53,6 +53,9 @@ I followed the youtube video I emntioned earlier and learned three differnent co
    - Output: PolineLine Component
    ![Alt text](assets/twoCurveDistance.png)
 
+
+# Week 3 Reflection #
+### Week of 09/19/2024
 ### Grasshopper Tutorial 03 Dividing Surfaces
 1. Divide Domain
    - Steps: In Rhino, Create a curve and in Command line "Extrude curve" to create the surface
@@ -67,6 +70,9 @@ I followed the youtube video I emntioned earlier and learned three differnent co
      d. Apply a Linear Array to duplicate the geometry along a given direction.
      ![Alt text](assets/DivCurv.png)
 ![Alt text](assets/divCurveSurface.png)
+
+### Project for the Class
+
 
 
 
