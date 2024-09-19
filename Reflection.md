@@ -73,6 +73,21 @@ I followed the youtube video I emntioned earlier and learned three differnent co
 
 ### Project for the Class
 
+![Alt text](assets/slide1.png)
+![Alt text](assets/slide2.png)
+![Alt text](assets/slide3.png)
+![Alt text](assets/slide4.png)
+![Alt text](assets/slide5.png)
+![Alt text](assets/slide6.png)
+![Alt text](assets/slide7.png)
+![Alt text](assets/slide8.png)
+![Alt text](assets/slide9.png)
+![Alt text](assets/slide10.png)
+![Alt text](assets/slide11.png)
+
+
+
+
 
 
 
