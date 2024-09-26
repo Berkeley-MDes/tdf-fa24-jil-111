@@ -103,18 +103,24 @@ This map illustrates the Personal Device Ecosystem that I interact with daily. A
 
 #### Key Components in the Ecosystem
 Smartphone (central device that syncs with other devices and services)
+
 Laptop/Tablet (another device syncing with the smartphone through cloud services)
+
 Cloud Storage Services (iCloud)
 Connectivity (Wi-Fi, Bluetooth) to facilitate data syncing
 
 #### Information Flow
 Messages: Syncing between phone and cloud services to ensure I can see messages on all devices.
+
 Files/Photos: Data synced between my phone, cloud storage (iCloud), and accessible on other devices like a laptop.
+
 Reminders/Calendar: Calendar events created on my laptop sync to my phone via the cloud.
 
 #### Map Out the Information Flow and Feedback Loops
 Smartphone ↔ Cloud Storage (iCloud): Files, photos, and messages are synced between the phone and the cloud, ensuring they are backed up and accessible on other devices.
+
 Smartphone ↔ Laptop/Tablet: The phone syncs messages, calendar events, and other data via cloud services, allowing the laptop to access the same data.
+
 Feedback Loop: Notifications from apps (e.g., new email on laptop, reminder from calendar) trigger feedback on the phone, such as alerts.
 
 ### Thoughts
