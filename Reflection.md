@@ -97,7 +97,7 @@ I tried to created the phone stand on my own, using the logic of points-curves-s
 # Week 4 Reflection #
 ### Week of 09/26/2024
 
-
+![Alt text](concept mao.png)
 
 
 
