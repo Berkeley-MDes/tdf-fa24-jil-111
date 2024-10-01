@@ -4,9 +4,15 @@
 ## Compiled and flashed successfully for 01_hellworld
 
 ![Alt text](assets/helloworlderror.png)
-
 ![Alt text](assets/helloworldsucc.png)
 ![Alt text](assets/helloworldflash.png)
+
+
+![Alt text](assets/spellcompile.png)
+![Alt text](assets/spellflash.png)
+
+![Alt text](assets/alterPeriodCompile.png)
+![Alt text](assets/alterPeriodflash.png)
 
 
 
