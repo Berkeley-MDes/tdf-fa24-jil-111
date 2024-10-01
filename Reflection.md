@@ -4,12 +4,23 @@
 ## Compiled and flashed successfully for 01_hellworld
 
 ![Alt text](assets/helloworlderror.png)
+
+When I first created the project and tried to compile it. Errors occur. So I asked ChatGPT how to solve this problem and it really helped me. I realized that I need to clean the project. Sometimes, cached files in the build environment can cause issues. So I Tried cleaning the project:open the command palette by pressing ⇧⌘P (macOS); Type Particle: Clean Application for Device and select it. This removed any cached build files that might be causing the error. This really helped me cleaning the cached files and I successfully compiled the file at the end. 
 ![Alt text](assets/helloworldsucc.png)
+
+After I compiled the file, Photon2 successfully flashed. I also opened the Serial Monitor: open the command palette (⇧⌘P on macOS) and type Particle: Serial Monitor. This opened a terminal window where I can saw the output from my Photon 2. Every 3 seconds, I saw the following messages:
+Hello World!
+the number of characters in that msg was 12.
 ![Alt text](assets/helloworldflash.png)
 
+## Compiled and flashed successfully for 02_helloworld_spell
+
+After the first try, I continued to compiles and flashed the next two files that Jeff shared. And one thing I think is important is to choose the device at the bottom of the page each time creating a new file. I forgot about this for the second time and was not able to compile and flash. 
 
 ![Alt text](assets/spellcompile.png)
 ![Alt text](assets/spellflash.png)
+
+## Compiled and flashed successfully for 03_altering_periodicity
 
 ![Alt text](assets/alterPeriodCompile.png)
 ![Alt text](assets/alterPeriodflash.png)
