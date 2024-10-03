@@ -40,14 +40,17 @@ I primarily learned by doing, following the step-by-step process of copying, pas
 
 ## 04 button -> led pulse rate
 
+![Alt text](assets/buttonLEDpulse.png)
+![Alt text](assets/lighton.JPG)
 
+For this practice, I first compiled the file. And then tried flashing it. The problem I encountered is the light is not flashing when I press the button, it only turns green. And after few minutes, the light is off. So I started to check how I conncet the breadboard, and I saw my button conncections and light conncections are wrong. I connect the bottom-right leg of the button to pin D10 instead of D6, and connect a lead from this middle rail to USB on my Photon 2 via the associated middle rail instead of D6. I encountered this issue because I was only estimating from the image that Jeff provided, and tried conncecting to the same spot without looking at if it is D6 or D7. After looking carefully at the file again, I corrected my the erros and was able to control the flash rate by pressing the button. 
 
 
 Moving forward, there are several areas that I believe will be critical to explore:
 
-Sensor Integration and Data Handling: The next logical step is to integrate sensors (temperature, humidity, etc.) with the Photon 2. This would allow the device to collect real-time data, process it locally, and potentially transmit it to the cloud for storage and analysis. Learning how to interface sensors with the microcontroller and send telemetry data will be crucial.
-Cloud-Based Monitoring and Control: Expanding the project to include cloud-based monitoring, such as using Particle Cloud for real-time device status updates and control, could add significant value. This would enable remote interaction with the microcontroller, setting the stage for building full-fledged IoT systems.
-Efficiency and Power Management: As projects scale, optimizing power usage and ensuring efficient memory management on microcontrollers becomes increasingly important. Understanding how to minimize power consumption will be essential, particularly for battery-powered IoT applications.
+1. Understand how code works and how it is connected to the breadboard.
+2. Be more familliar with how the conncections on breadboard work. It is easy to follow the iamges, but it is difficult to do a project without these images to follow. So I think it would be important for me to explore different parts of Photon mean and how these parts could be controlled over codes.
+
 
 
 
