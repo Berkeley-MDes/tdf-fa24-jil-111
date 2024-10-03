@@ -1,7 +1,7 @@
 # Week 5 Reflection #
 ### Week of 10/02/2024
 
-## 01Compiled and flashed successfully for 01_hellworld
+## 01 Compiled and flashed successfully for 01_hellworld
 
 
 When I first created the project and tried to compile it. Errors occur. 
@@ -16,14 +16,14 @@ Hello World!
 the number of characters in that msg was 12.
 ![Alt text](assets/helloworldflash.png)
 
-## 02Compiled and flashed successfully for 02_helloworld_spell
+## 02 Compiled and flashed successfully for 02_helloworld_spell
 
 After the first try, I continued to compile and flashed the next two files that Jeff shared. And one thing I think is important is to choose the device at the bottom of the page each time creating a new file. I forgot about this for the second time and was not able to compile and flash. 
 
 ![Alt text](assets/spellcompile.png)
 ![Alt text](assets/spellflash.png)
 
-## 03Compiled and flashed successfully for 03_altering_periodicity
+## 03 Compiled and flashed successfully for 03_altering_periodicity
 
 The following two images show how I compiled and flashed Photon2 successfully. I followed the steps I took earlier and didn't encounter any issues. 
 
@@ -38,11 +38,17 @@ I gained a deeper understanding of how the Serial LogHandler functions, enabling
 
 I primarily learned by doing, following the step-by-step process of copying, pasting, and modifying code provided by Jeff. Each practice session built on the last, introducing new concepts and challenges, which I had to troubleshoot and resolve on my own or with guidance. The hands-on, iterative nature of this process allowed me to become familiar with Particle Workbench and the Photon 2 microcontroller's capabilities.
 
+## 04 button -> led pulse rate
+
+
+
+
 Moving forward, there are several areas that I believe will be critical to explore:
 
 Sensor Integration and Data Handling: The next logical step is to integrate sensors (temperature, humidity, etc.) with the Photon 2. This would allow the device to collect real-time data, process it locally, and potentially transmit it to the cloud for storage and analysis. Learning how to interface sensors with the microcontroller and send telemetry data will be crucial.
 Cloud-Based Monitoring and Control: Expanding the project to include cloud-based monitoring, such as using Particle Cloud for real-time device status updates and control, could add significant value. This would enable remote interaction with the microcontroller, setting the stage for building full-fledged IoT systems.
 Efficiency and Power Management: As projects scale, optimizing power usage and ensuring efficient memory management on microcontrollers becomes increasingly important. Understanding how to minimize power consumption will be essential, particularly for battery-powered IoT applications.
+
 
 
 # Week 1 Reflection #
