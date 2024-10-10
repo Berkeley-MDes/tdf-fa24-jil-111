@@ -5,6 +5,20 @@ I work on thinking about the project and write the project proposal.
 
 ![Alt text](assets/wishing.png)
 
+## Reflections
+Through the development of the "Whispers of Wishes" project, we learned several important lessons about the integration of physical components and cloud-based services. One key takeaway was the significance of calibration in force sensors; ensuring they respond accurately to varying degrees of pressure required precise coding and adjustment of sensitivity. This process not only deepened our understanding of sensor technology but also emphasized the need for iterative testing in prototyping.
+
+Another important aspect was learning how to optimize cloud connectivity between Photon2 and Particle Cloud Services. Although cloud communication is vital for remote interaction, we encountered occasional latency and instability issues. Troubleshooting this problem required us to dive deeper into Wi-Fi management, leading to the realization that network stability is a critical factor in real-time interactive installations. Overall, these challenges have pushed us to explore new solutions and highlighted the complexity of integrating hardware with cloud-based systems in a cohesive and seamless manner.
+
+Currently, the project is in the early stages of prototyping. The basic components—force sensors, LEDs, and the servo—have been successfully integrated, but further refinement is required, particularly in terms of response time and mechanical precision. While the system functions, it is clear that more fine-tuning is needed to enhance user interaction and create a smoother, more immersive experience.
+
+## Speculations
+Looking ahead, there are several promising directions for the evolution of this project. First, we plan to explore more sophisticated user interactions by incorporating additional sensors, such as proximity or sound sensors, to create more dynamic and personalized feedback loops. For instance, the sound of coins hitting the wishing fountain could trigger different LED patterns or movements, adding another layer of engagement for users.
+
+Another future direction involves improving the power efficiency of the system, particularly if we want to deploy this installation in an outdoor setting. Investigating solar-powered solutions or low-power modes for the Photon2 and its connected components could significantly enhance the longevity of the project. Additionally, integrating machine learning algorithms to adapt the system's responses based on user input patterns could make the experience more interactive and personalized over time.
+
+
+
 # Week 5 Reflection #
 ### Week of 10/02/2024
 
