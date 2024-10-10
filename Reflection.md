@@ -1,9 +1,10 @@
 # Week 6 Reflection #
 ### Week of 10/10/2024
 
-I work on thinking about the project and write the project proposal.
+I work on thinking about the project and write the project proposal. The following diagrams are what our project look like and the system we build. 
 
 ![Alt text](assets/wishing.png)
+![Alt text](assets/wishingdiagram.png)
 
 ## Reflections
 Through the development of the "Whispers of Wishes" project, we learned several important lessons about the integration of physical components and cloud-based services. One key takeaway was the significance of calibration in force sensors; ensuring they respond accurately to varying degrees of pressure required precise coding and adjustment of sensitivity. This process not only deepened our understanding of sensor technology but also emphasized the need for iterative testing in prototyping.
