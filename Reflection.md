@@ -3,7 +3,7 @@
 
 I work on thinking about the project and write the project proposal.
 
-![Alt text](assets/helloworlderror.png)
+![Alt text](assets/wishing)
 
 # Week 5 Reflection #
 ### Week of 10/02/2024
