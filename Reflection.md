@@ -32,14 +32,12 @@ In future iterations, we could explore integrating more adaptive sensor calibrat
 #### Images and Videos
 Included are relevant photos of the calibrated pressure sensor and the coin slot sensor connected to Photon2 Module #2, demonstrating the adjustments we made to achieve reliable responses. Captions provide further context for each setup.
 
-![Alt text](assets/wishing.png)
-![Alt text](assets/wishingdiagram.png)
-
+![Alt text](assets/IMG_4356.JPG)
+![Alt text](assets/IMG_4384.JPG)
+![Alt text](assets/IMG_4385.JPG)
 #### Sketches, Drawings, and Diagrams
 This week’s sketches include updated sensor-actuator interaction diagrams, showing the signal flow from each sensor to the cloud and back to the LEDs or servo motor. These visuals highlight our setup and explain how each component contributes to the overall system responsiveness.
 
-![Alt text](assets/wishing.png)
-![Alt text](assets/wishingdiagram.png)
 
 
 # Week 6 Reflection #
