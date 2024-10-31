@@ -15,6 +15,10 @@ Moving forward, we see potential in developing localized processing for the sens
 
 #### Images and Videos
 Included are photos and videos showing the servo motor’s adjustments, with captions describing how changes in speed and range of motion impacted the user experience. 
+
+![Alt text](assets/IMG_4356.JPG)
+![Alt text](assets/IMG_4384.JPG)
+![Alt text](assets/IMG_4385.JPG)
 #### Sketches, Drawings, and Diagrams
 This week’s diagrams include an updated system architecture, illustrating optimized data flow between the Photon2 modules and the adjustments made to minimize latency. These visuals provide a clear view of our modified setup, with annotations explaining each change in data handling and synchronization.
 
@@ -35,8 +39,7 @@ Included are relevant photos of the calibrated pressure sensor and the coin slot
 ![Alt text](assets/IMG_4356.JPG)
 ![Alt text](assets/IMG_4384.JPG)
 ![Alt text](assets/IMG_4385.JPG)
-#### Sketches, Drawings, and Diagrams
-This week’s sketches include updated sensor-actuator interaction diagrams, showing the signal flow from each sensor to the cloud and back to the LEDs or servo motor. These visuals highlight our setup and explain how each component contributes to the overall system responsiveness.
+
 
 
 
