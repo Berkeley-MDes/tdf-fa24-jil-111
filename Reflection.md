@@ -1,9 +1,9 @@
 # Week9  Reflection #
 ### Week of 10/31/2024
 
-![Alt text](assets/llm01)
-![Alt text](assets/llm02)
-![Alt text](assets/llm03)
+![Alt text](assets/llm01.png)
+![Alt text](assets/llm02.png)
+![Alt text](assets/llm03.png)
 
 # Week8  Reflection #
 ### Week of 10/24/2024
