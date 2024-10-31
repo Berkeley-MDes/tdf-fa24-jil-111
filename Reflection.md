@@ -1,5 +1,15 @@
 # Week9  Reflection #
 ### Week of 10/31/2024
+#### Weekly Reflection
+This week, I began exploring the ZeroWidth workbench to create a custom LLM model for my project. Through navigating the platform, I gained insights into setting up agent flows, configuring input variables, and managing output responses. One of the core tasks was understanding how to structure conversational interfaces and link them to specific prompts that would guide user interactions. The process included configuring demo interfaces, where I had to set placeholders, greeting texts, and response options. This exercise helped me learn how user input is managed in an LLM environment and provided a foundational understanding of ZeroWidth’s flow-building tools.
+
+![Alt text](assets/llm01.png)
+![Alt text](assets/llm02.png)
+![Alt text](assets/llm03.png)
+
+Speculations
+Moving forward, I believe I can leverage ZeroWidth's features to develop more personalized interactions within the LLM. I aim to experiment with variable configurations and response styles to enhance the model’s adaptability to diverse user inquiries. One potential direction is to integrate dynamic inputs that adjust the conversational flow based on user feedback, making the experience more interactive. As ZeroWidth updates its platform, I’m interested in exploring any new API integrations or data visualization features that could further enhance the capabilities of my model.
+
 
 ![Alt text](assets/llm01.png)
 ![Alt text](assets/llm02.png)
