@@ -1,15 +1,43 @@
-# Week8  Reflection #
+# Week9  Reflection #
 ### Week of 10/31/2024
 
 
 
-# Week  Reflection #
+# Week8  Reflection #
 ### Week of 10/24/2024
+#### Reflections
+This week, our focus was on refining cloud communication between the two Photon2 modules to ensure seamless interactions within the “Trevi Fountain” ecosystem. We encountered challenges with latency that affected the timing of responses, particularly between the pressure sensor and LED lights. To address this, we worked on optimizing data packet sizes and setting specific timing controls, which helped to reduce delays. Through this experience, we learned the importance of efficient data management in cloud-based communication, as even minor latency issues can disrupt the flow of interactions in digital ecosystems.
 
+Additionally, we revisited the servo motor’s response to coin insertions to achieve smoother, more natural motion in the wooden fish. Jieru adjusted the motor’s parameters, focusing on speed and range of motion, to align with the ecosystem’s calm and contemplative theme. This adjustment reinforced the lesson that motion programming must consider both technical feasibility and aesthetic intent, as the movement itself plays a crucial role in the user experience. The current state of our work reflects these improvements in synchronization, with each interaction now triggering more consistent and immediate feedback, though we continue to monitor for potential improvements in timing.
+
+#### Speculations
+Moving forward, we see potential in developing localized processing for the sensors, which could reduce dependency on the cloud and improve response times. By adding a local microcontroller to handle initial signal processing, we could achieve near-instantaneous reactions to user inputs, enhancing the immersive experience. This approach aligns with emerging industry trends, as more digital ecosystems prioritize edge computing to handle real-time demands. An example of this can be seen in recent advances in smart home systems, where localized processing has improved responsiveness for interactive installations.
+
+#### Images and Videos
+Included are photos and videos showing the servo motor’s adjustments, with captions describing how changes in speed and range of motion impacted the user experience. The video demonstrates the smoother motion achieved through these refinements.
+
+#### Sketches, Drawings, and Diagrams
+This week’s diagrams include an updated system architecture, illustrating optimized data flow between the Photon2 modules and the adjustments made to minimize latency. These visuals provide a clear view of our modified setup, with annotations explaining each change in data handling and synchronization.
 
 
 # Week 7 Reflection #
 ### Week of 10/17/2024
+#### Reflections
+This week, our primary focus was on calibrating the pressure sensor and the coin slot sensor within the “Trevi Fountain” digital ecosystem. Through an iterative process of testing and adjustment, we learned how small changes in calibration can have significant impacts on system responsiveness. I worked extensively on the pressure sensor, ensuring it could differentiate between genuine user interaction and incidental touches. This task highlighted the importance of precision in sensor thresholds, as even minor adjustments in sensitivity altered the reliability of the system’s response.
+
+During this process, I gained insights into error-handling techniques for digital ecosystems, learning to implement protocols that prevent multiple activations from a single press. My teammate, Jieru, focused on configuring the coin slot sensor to register coin insertions accurately and connecting this input to the servo motor that animates the wooden fish. This required several rounds of fine-tuning to ensure that the motor activated only in response to a coin insertion, adding to the ecosystem’s stability and predictability. Overall, this week’s work enhanced our understanding of the critical role of calibration and error-handling protocols in creating a reliable, user-responsive system. The current state of our work shows progress in sensor accuracy, although we recognize the need for further refinement in synchronization between the sensors and actuators to achieve seamless interactions.
+
+#### Speculations
+In future iterations, we could explore integrating more adaptive sensor calibration using machine learning, allowing the system to adjust sensor thresholds based on real-time interaction data. This could improve reliability, especially in high-traffic installations. Additionally, leveraging machine learning might allow the system to “learn” common interaction patterns, potentially enabling predictive responses that would enhance user experience. Recent developments in adaptive sensing technologies, as seen in advanced IoT installations, demonstrate the potential of this approach to optimize sensor performance without constant manual recalibration.
+
+#### Images and Videos
+Included are relevant photos of the calibrated pressure sensor and the coin slot sensor connected to Photon2 Module #2, demonstrating the adjustments we made to achieve reliable responses. Captions provide further context for each setup.
+
+#### Sketches, Drawings, and Diagrams
+This week’s sketches include updated sensor-actuator interaction diagrams, showing the signal flow from each sensor to the cloud and back to the LEDs or servo motor. These visuals highlight our setup and explain how each component contributes to the overall system responsiveness.
+
+
+
 
 # Week 6 Reflection #
 ### Week of 10/10/2024
