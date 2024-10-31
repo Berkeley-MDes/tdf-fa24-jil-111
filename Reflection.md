@@ -14,8 +14,7 @@ Additionally, we revisited the servo motor’s response to coin insertions to ac
 Moving forward, we see potential in developing localized processing for the sensors, which could reduce dependency on the cloud and improve response times. By adding a local microcontroller to handle initial signal processing, we could achieve near-instantaneous reactions to user inputs, enhancing the immersive experience. This approach aligns with emerging industry trends, as more digital ecosystems prioritize edge computing to handle real-time demands. An example of this can be seen in recent advances in smart home systems, where localized processing has improved responsiveness for interactive installations.
 
 #### Images and Videos
-Included are photos and videos showing the servo motor’s adjustments, with captions describing how changes in speed and range of motion impacted the user experience. The video demonstrates the smoother motion achieved through these refinements.
-
+Included are photos and videos showing the servo motor’s adjustments, with captions describing how changes in speed and range of motion impacted the user experience. 
 #### Sketches, Drawings, and Diagrams
 This week’s diagrams include an updated system architecture, illustrating optimized data flow between the Photon2 modules and the adjustments made to minimize latency. These visuals provide a clear view of our modified setup, with annotations explaining each change in data handling and synchronization.
 
@@ -33,10 +32,14 @@ In future iterations, we could explore integrating more adaptive sensor calibrat
 #### Images and Videos
 Included are relevant photos of the calibrated pressure sensor and the coin slot sensor connected to Photon2 Module #2, demonstrating the adjustments we made to achieve reliable responses. Captions provide further context for each setup.
 
+![Alt text](assets/wishing.png)
+![Alt text](assets/wishingdiagram.png)
+
 #### Sketches, Drawings, and Diagrams
 This week’s sketches include updated sensor-actuator interaction diagrams, showing the signal flow from each sensor to the cloud and back to the LEDs or servo motor. These visuals highlight our setup and explain how each component contributes to the overall system responsiveness.
 
-
+![Alt text](assets/wishing.png)
+![Alt text](assets/wishingdiagram.png)
 
 
 # Week 6 Reflection #
