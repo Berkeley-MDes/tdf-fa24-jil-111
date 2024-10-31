@@ -1,3 +1,12 @@
+# Week8  Reflection #
+### Week of 10/31/2024
+
+# Week  Reflection #
+### Week of 10/24/2024
+
+# Week 7 Reflection #
+### Week of 10/17/2024
+
 # Week 6 Reflection #
 ### Week of 10/10/2024
 
