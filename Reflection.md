@@ -7,6 +7,8 @@ This week, I began exploring the ZeroWidth workbench to create a custom LLM mode
 ![Alt text](assets/llm02.png)
 ![Alt text](assets/llm03.png)
 
+Additionally, I introduced specific instructions to the agent, clarifying its role as a resume editor that provides suggestions based on job descriptions. This step involved structuring prompts to guide the agent in recommending professional language and relevant achievements that align with the user’s career goals. By adding detailed instructions, I improved the agent’s precision in offering tailored advice, making it a more effective tool for resume enhancement.
+
 Speculations
 Moving forward, I believe I can leverage ZeroWidth's features to develop more personalized interactions within the LLM. I aim to experiment with variable configurations and response styles to enhance the model’s adaptability to diverse user inquiries. One potential direction is to integrate dynamic inputs that adjust the conversational flow based on user feedback, making the experience more interactive. As ZeroWidth updates its platform, I’m interested in exploring any new API integrations or data visualization features that could further enhance the capabilities of my model.
 
