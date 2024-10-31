@@ -13,14 +13,15 @@ Additionally, we revisited the servo motor’s response to coin insertions to ac
 #### Speculations
 Moving forward, we see potential in developing localized processing for the sensors, which could reduce dependency on the cloud and improve response times. By adding a local microcontroller to handle initial signal processing, we could achieve near-instantaneous reactions to user inputs, enhancing the immersive experience. This approach aligns with emerging industry trends, as more digital ecosystems prioritize edge computing to handle real-time demands. An example of this can be seen in recent advances in smart home systems, where localized processing has improved responsiveness for interactive installations.
 
-#### Images and Videos
-Included are photos and videos showing the servo motor’s adjustments, with captions describing how changes in speed and range of motion impacted the user experience. 
+
+The prototype functions as an interactive, multi-component ecosystem that combines digital responsiveness with symbolic physical elements. At the core of this ecosystem are two Photon2 modules that manage the sensory inputs and actuator responses, connected through Particle Cloud Services. The coordinated responses between the pressure sensor, coin slot sensor, LEDs, and servo motor bring the fountain concept to life, engaging users through both visual and kinetic interactions.
+System Functioning and Key Interactions
+The ecosystem revolves around two primary interactions, each designed to represent an element of wish-making. The pressure sensor serves as the entry point for user engagement, allowing users to press it to activate the LEDs in the lotus flowers. This creates an inviting, symbolic response, where the lotus flowers light up, visually representing the beginning of a wish. The coin slot sensor then detects when a coin is inserted, triggering the servo motor that animates the wooden fish. This motion symbolizes the fulfillment of the wish, creating a layered experience that combines light and movement.
+The Particle Cloud Services coordinates these actions by linking the two Photon2 modules. When the pressure sensor is pressed, Photon2 Module #1 sends a signal to the cloud, which relays it to Photon2 Module #2 to activate the LEDs. For the coin insertion interaction, Photon2 Module #2 directly handles the servo motor, providing an immediate response that animates the fish.
 
 ![Alt text](assets/imageOne)
 ![Alt text](assets/imageTwo)
 ![Alt text](assets/imageThree)
-#### Sketches, Drawings, and Diagrams
-This week’s diagrams include an updated system architecture, illustrating optimized data flow between the Photon2 modules and the adjustments made to minimize latency. These visuals provide a clear view of our modified setup, with annotations explaining each change in data handling and synchronization.
 
 
 # Week 7 Reflection #
