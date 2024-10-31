@@ -17,7 +17,7 @@ Moving forward, we see potential in developing localized processing for the sens
 Included are photos and videos showing the servo motor’s adjustments, with captions describing how changes in speed and range of motion impacted the user experience. 
 
 ![Alt text](assets/imageOne)
-![Alt text](assets/imagetwo)
+![Alt text](assets/imageTwo)
 ![Alt text](assets/imageThree)
 #### Sketches, Drawings, and Diagrams
 This week’s diagrams include an updated system architecture, illustrating optimized data flow between the Photon2 modules and the adjustments made to minimize latency. These visuals provide a clear view of our modified setup, with annotations explaining each change in data handling and synchronization.
