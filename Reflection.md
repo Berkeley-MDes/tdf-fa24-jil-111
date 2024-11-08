@@ -27,7 +27,7 @@ Encourage questions that allow Jieru to elaborate on her technical growth, probl
 ​​I conducted experiments with the temperature setting in the GPT model to adjust the creativity level of responses. A lower temperature helped produce more factual and concise answers.
 
 I also delved into how adjusting the Similarity Threshold and Limiting the Number of Chunks impacted the performance of the assistant:
-![Alt text](assets/llm01.png)
+![Alt text](assets/adjust.png)
 
 
 Adjusting Similarity Threshold: By experimenting with different similarity threshold values in the Search Knowledge node, I discovered that setting a higher threshold (e.g., around 0.5 to 0.7) made the assistant retrieve information that was more closely related to the query. This improvement reduced instances where irrelevant or loosely related content was included in the responses. However, if the threshold was set too high, it sometimes led to the assistant not retrieving any information, resulting in responses like "I don't have information on that." Finding the right balance was key to ensuring that the assistant provided accurate and relevant answers without missing out on necessary details.
