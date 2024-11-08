@@ -21,12 +21,14 @@ Challenges and Learning Outcomes – The technical challenges she encountered as
 Design Reflections and Speculations – How her projects sparked a deeper interest in using computational tools to create customized, sustainable designs and digital ecosystems that blend physical and digital interactions. Her reflections on how these systems can enhance user experiences by fostering a sense of emotional engagement and responsiveness in design.
 Encourage questions that allow Jieru to elaborate on her technical growth, problem-solving methods, and how her work in computational design and digital ecosystems informs her approach to creating meaningful, user-centered experiences. Focus on her journey from learning parametric design basics to integrating digital and physical elements in interactive installations.
 
-
-![Alt text](assets/llm01.png)
+​​I conducted experiments with the temperature setting in the GPT model to adjust the creativity level of responses. A lower temperature helped produce more factual and concise answers：
+![Alt text](assets/lowtem.png)
+![Alt text](assets/hightem.png)
 ​​I conducted experiments with the temperature setting in the GPT model to adjust the creativity level of responses. A lower temperature helped produce more factual and concise answers.
 
-![Alt text](assets/llm01.png)
 I also delved into how adjusting the Similarity Threshold and Limiting the Number of Chunks impacted the performance of the assistant:
+![Alt text](assets/llm01.png)
+
 
 Adjusting Similarity Threshold: By experimenting with different similarity threshold values in the Search Knowledge node, I discovered that setting a higher threshold (e.g., around 0.5 to 0.7) made the assistant retrieve information that was more closely related to the query. This improvement reduced instances where irrelevant or loosely related content was included in the responses. However, if the threshold was set too high, it sometimes led to the assistant not retrieving any information, resulting in responses like "I don't have information on that." Finding the right balance was key to ensuring that the assistant provided accurate and relevant answers without missing out on necessary details.
 
