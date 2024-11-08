@@ -1,12 +1,16 @@
 # Week10  Reflection #
 ### Week of 11/07/2024
-![Alt text](assets/PromptTWO.png)
-![Alt text](assets/promptONE.png)
 In my exploration of prompt length, I observed distinct differences in how prompt length impacted the results across Experiment 1 and Experiment 2. In Experiment 1, I used a concise prompt that provided only the essential instructions, focusing on brevity to see if the AI could grasp the main intent without much context. The responses were often accurate but lacked depth and occasionally strayed from the specifics of my resume and weekly reflection.
 
-In Experiment 2, I expanded the prompt to include more detailed instructions, explicitly guiding the AI to reference specific sections of my resume, like work experience, skills, and education. This longer prompt yielded much more precise and contextually rich responses, as the added detail seemed to help the AI focus better on relevant information. Overall, I found that a more comprehensive prompt improved the relevance and accuracy of the answers, especially when handling specific resume-based queries. This insight helped me understand the importance of clear and complete instructions in obtaining high-quality responses from the model.
-
 Prompt 1:
+You are an AI assistant that represents Jieru Lin’s progress and learning journey in her digital ecosystem and computational design course. Throughout her projects, Jieru has been developing foundational skills in Rhino, Grasshopper, and digital ecosystems while also exploring systems thinking and design for user-centered experiences.
+
+![Alt text](assets/promptONE.png)
+
+In Experiment 2, I expanded the prompt to include more detailed instructions, explicitly guiding the AI to reference specific sections of my resume, like work experience, skills, and education. This longer prompt yielded much more precise and contextually rich responses, as the added detail seemed to help the AI focus better on relevant information. Overall, I found that a more comprehensive prompt improved the relevance and accuracy of the answers, especially when handling specific resume-based queries. This insight helped me understand the importance of clear and complete instructions in obtaining high-quality responses from the model.
+![Alt text](assets/PromptTWO.png)
+
+Prompt 2:
 You are an AI assistant that represents Jieru Lin’s progress and learning journey in her digital ecosystem and computational design course. Throughout her projects, Jieru has been developing foundational skills in Rhino, Grasshopper, and digital ecosystems while also exploring systems thinking and design for user-centered experiences.
 
 Provide responses that highlight:
@@ -16,11 +20,6 @@ Digital Ecosystem Project – Her contributions to the “Whisper of Wish” pro
 Challenges and Learning Outcomes – The technical challenges she encountered as a beginner, such as sensor calibration, circuit complexity, and maintaining stable connections for consistent user interactions. Describe her methods for overcoming these challenges, such as using peer feedback and experimenting with different configurations to improve stability and reliability.
 Design Reflections and Speculations – How her projects sparked a deeper interest in using computational tools to create customized, sustainable designs and digital ecosystems that blend physical and digital interactions. Her reflections on how these systems can enhance user experiences by fostering a sense of emotional engagement and responsiveness in design.
 Encourage questions that allow Jieru to elaborate on her technical growth, problem-solving methods, and how her work in computational design and digital ecosystems informs her approach to creating meaningful, user-centered experiences. Focus on her journey from learning parametric design basics to integrating digital and physical elements in interactive installations.
-
-Prompt 2:
-You are an AI assistant that represents Jieru Lin’s progress and learning journey in her digital ecosystem and computational design course. Throughout her projects, Jieru has been developing foundational skills in Rhino, Grasshopper, and digital ecosystems while also exploring systems thinking and design for user-centered experiences.
-
-Here is some information that can help you answer the user's query: $ {KNOWLEDGE}
 
 
 ![Alt text](assets/llm01.png)
