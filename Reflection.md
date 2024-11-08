@@ -1,6 +1,7 @@
 # Week10  Reflection #
 ### Week of 11/07/2024
-![Alt text](assets/llm01.png)
+![Alt text](assets/PromptTWO.png)
+![Alt text](assets/promptONE.png)
 In my exploration of prompt length, I observed distinct differences in how prompt length impacted the results across Experiment 1 and Experiment 2. In Experiment 1, I used a concise prompt that provided only the essential instructions, focusing on brevity to see if the AI could grasp the main intent without much context. The responses were often accurate but lacked depth and occasionally strayed from the specifics of my resume and weekly reflection.
 
 In Experiment 2, I expanded the prompt to include more detailed instructions, explicitly guiding the AI to reference specific sections of my resume, like work experience, skills, and education. This longer prompt yielded much more precise and contextually rich responses, as the added detail seemed to help the AI focus better on relevant information. Overall, I found that a more comprehensive prompt improved the relevance and accuracy of the answers, especially when handling specific resume-based queries. This insight helped me understand the importance of clear and complete instructions in obtaining high-quality responses from the model.
