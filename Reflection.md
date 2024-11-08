@@ -1,5 +1,54 @@
 # Week10  Reflection #
 ### Week of 11/07/2024
+![Alt text](assets/llm01.png)
+In my exploration of prompt length, I observed distinct differences in how prompt length impacted the results across Experiment 1 and Experiment 2. In Experiment 1, I used a concise prompt that provided only the essential instructions, focusing on brevity to see if the AI could grasp the main intent without much context. The responses were often accurate but lacked depth and occasionally strayed from the specifics of my resume and weekly reflection.
+
+In Experiment 2, I expanded the prompt to include more detailed instructions, explicitly guiding the AI to reference specific sections of my resume, like work experience, skills, and education. This longer prompt yielded much more precise and contextually rich responses, as the added detail seemed to help the AI focus better on relevant information. Overall, I found that a more comprehensive prompt improved the relevance and accuracy of the answers, especially when handling specific resume-based queries. This insight helped me understand the importance of clear and complete instructions in obtaining high-quality responses from the model.
+
+Prompt 1:
+You are an AI assistant that represents Jieru Lin’s progress and learning journey in her digital ecosystem and computational design course. Throughout her projects, Jieru has been developing foundational skills in Rhino, Grasshopper, and digital ecosystems while also exploring systems thinking and design for user-centered experiences.
+
+Provide responses that highlight:
+
+Foundational Skills in Computational Design – How Jieru began with Project 1, creating a bracelet holder using Rhino and Grasshopper, where she learned the basics of parametric design, modeling, and 3D printing. Discuss her use of Grasshopper to create modular, customizable designs by adjusting parameters for real-time changes.
+Digital Ecosystem Project – Her contributions to the “Whisper of Wish” project, a digital ecosystem inspired by the Trevi Fountain, where she handled components like sensors and servo motors, creating interactive elements that responded to user actions. Her role included calibrating a coin slot sensor and integrating it with a servo motor to animate a wooden fish.
+Challenges and Learning Outcomes – The technical challenges she encountered as a beginner, such as sensor calibration, circuit complexity, and maintaining stable connections for consistent user interactions. Describe her methods for overcoming these challenges, such as using peer feedback and experimenting with different configurations to improve stability and reliability.
+Design Reflections and Speculations – How her projects sparked a deeper interest in using computational tools to create customized, sustainable designs and digital ecosystems that blend physical and digital interactions. Her reflections on how these systems can enhance user experiences by fostering a sense of emotional engagement and responsiveness in design.
+Encourage questions that allow Jieru to elaborate on her technical growth, problem-solving methods, and how her work in computational design and digital ecosystems informs her approach to creating meaningful, user-centered experiences. Focus on her journey from learning parametric design basics to integrating digital and physical elements in interactive installations.
+
+Prompt 2:
+You are an AI assistant that represents Jieru Lin’s progress and learning journey in her digital ecosystem and computational design course. Throughout her projects, Jieru has been developing foundational skills in Rhino, Grasshopper, and digital ecosystems while also exploring systems thinking and design for user-centered experiences.
+
+Here is some information that can help you answer the user's query: $ {KNOWLEDGE}
+
+
+![Alt text](assets/llm01.png)
+​​I conducted experiments with the temperature setting in the GPT model to adjust the creativity level of responses. A lower temperature helped produce more factual and concise answers.
+
+![Alt text](assets/llm01.png)
+I also delved into how adjusting the Similarity Threshold and Limiting the Number of Chunks impacted the performance of the assistant:
+
+Adjusting Similarity Threshold: By experimenting with different similarity threshold values in the Search Knowledge node, I discovered that setting a higher threshold (e.g., around 0.5 to 0.7) made the assistant retrieve information that was more closely related to the query. This improvement reduced instances where irrelevant or loosely related content was included in the responses. However, if the threshold was set too high, it sometimes led to the assistant not retrieving any information, resulting in responses like "I don't have information on that." Finding the right balance was key to ensuring that the assistant provided accurate and relevant answers without missing out on necessary details.
+
+Limiting the Number of Chunks: I tested various settings for the number of chunks retrieved from the knowledge base. Limiting the number of chunks to a smaller number (such as 2 or 3) helped the assistant focus on the most relevant pieces of information, which enhanced the specificity and clarity of the responses. Too many chunks could overwhelm the assistant with excessive information, leading to less precise answers or potential confusion. Conversely, too few chunks might omit important context. Through testing, I found an optimal number that provided sufficient context without overloading the assistant, thus improving the overall quality of the responses.
+
+These adjustments were crucial in fine-tuning the assistant's ability to provide accurate, relevant, and concise answers based strictly on my resume and weekly reflections. By carefully calibrating these parameters, I enhanced the assistant's performance, ensuring it met my needs effectively.
+
+![Alt text](assets/llm01.png)
+Another key aspect of my exploration involved testing different formats for the knowledge base to understand how they impacted the assistant's accuracy and effectiveness. Initially, I uploaded a PDF version of my resume, which included various icons, graphics, and formatting elements. However, I noticed that the assistant sometimes struggled to interpret the content accurately, likely because the icons and formatting introduced noise that confused the model’s processing of the text.
+
+To address this, I transformed my resume into a pure text format, removing icons, special formatting, and simplifying the structure. This adjustment made the information more straightforward and accessible for the assistant, leading to significantly improved responses. Without the added complexity of visual elements, the assistant was able to parse and retrieve the relevant content from my resume with greater accuracy, generating more precise and reliable answers.
+
+This experience highlighted the importance of simplifying and standardizing knowledge base content to optimize it for use in an assistant. Clean, plain-text data structures without extraneous formatting help ensure that the model can process and respond accurately based on the available information.
+
+![Alt text](assets/llm01.png)
+
+Finally, I added parameters as variables (e.g., focus area or response length) to customize the responses further. These adjustments allowed me to ask more targeted questions, such as “Summarize my work experience” or “List my technical skills.”
+
+Another key aspect of my exploration involved testing different formats for the knowledge base to understand how they impacted the assistant's accuracy. Initially, I uploaded a PDF version of my resume, I noticed that the assistant sometimes struggled to interpret the content accurately, likely because the icons and formatting introduced noise that confused the model’s processing of the text.
+To address this, I transformed my resume into a pure text format, removing icons, special formatting, and simplifying the structure. This adjustment made the information more straightforward and accessible for the assistant, leading to significantly improved responses. Without the added complexity of visual elements, the assistant was able to parse and retrieve the relevant content from my resume with greater accuracy, generating more precise and reliable answers.
+Through this project, I gained practical insights into configuring AI-powered assistants for specific, context-driven applications. Experimenting with different prompt designs, thresholds, and knowledge formatting techniques highlighted the nuanced ways in which each parameter can impact performance. By refining these elements iteratively, I created an assistant that not only retrieves relevant information accurately but also adapts effectively to questions about my resume. This experience has deepened my understanding of building functional digital ecosystems and laid a foundation for more complex projects in the future.
+
 
 # Week9  Reflection #
 ### Week of 10/31/2024
