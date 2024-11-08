@@ -1,5 +1,9 @@
 # Week10  Reflection #
 ### Week of 11/07/2024
+#### Weekly Reflection
+![Alt text](assets/promptONE.png)
+My System Architecture Diagram starts with Conversational Input, then processed through the Prompt Modul. The Search Knowledge node accesses specific information from the uploaded resume and weekly reflections, The processed query is passed to the OpenAI GPT-4 Module. Finally, the response is outputted through the Output Module
+
 In my exploration of prompt length, I observed distinct differences in how prompt length impacted the results across Experiment 1 and Experiment 2. In Experiment 1, I used a concise prompt that provided only the essential instructions, focusing on brevity to see if the AI could grasp the main intent without much context. The responses were often accurate but lacked depth and occasionally strayed from the specifics of my resume and weekly reflection.
 
 Prompt 1:
@@ -45,14 +49,16 @@ To address this, I transformed my resume into a pure text format, removing icons
 
 This experience highlighted the importance of simplifying and standardizing knowledge base content to optimize it for use in an assistant. Clean, plain-text data structures without extraneous formatting help ensure that the model can process and respond accurately based on the available information.
 
-![Alt text](assets/llm01.png)
+#### Speculations
+##### Speculations on Human experience
+As AI assistants like my resume tool become more integrated, people may expect more personalized, responsive interactions in daily life, especially in professional contexts.
+##### Speculations on Engineering
+Engineering may evolve towards human-AI co-creation, where designers and AI systems collaborate, producing solutions that are continuously improved through user feedback.
+##### Speculations on The Role of AI in Advancing AI
+AI may play a role in optimizing and training other AI systems, leading to self-improving, adaptable tools. Additionally, "AI auditors" could ensure ethical standards across AI applications, building user trust.
 
-Finally, I added parameters as variables (e.g., focus area or response length) to customize the responses further. These adjustments allowed me to ask more targeted questions, such as “Summarize my work experience” or “List my technical skills.”
 
-Another key aspect of my exploration involved testing different formats for the knowledge base to understand how they impacted the assistant's accuracy. Initially, I uploaded a PDF version of my resume, I noticed that the assistant sometimes struggled to interpret the content accurately, likely because the icons and formatting introduced noise that confused the model’s processing of the text.
-To address this, I transformed my resume into a pure text format, removing icons, special formatting, and simplifying the structure. This adjustment made the information more straightforward and accessible for the assistant, leading to significantly improved responses. Without the added complexity of visual elements, the assistant was able to parse and retrieve the relevant content from my resume with greater accuracy, generating more precise and reliable answers.
-Through this project, I gained practical insights into configuring AI-powered assistants for specific, context-driven applications. Experimenting with different prompt designs, thresholds, and knowledge formatting techniques highlighted the nuanced ways in which each parameter can impact performance. By refining these elements iteratively, I created an assistant that not only retrieves relevant information accurately but also adapts effectively to questions about my resume. This experience has deepened my understanding of building functional digital ecosystems and laid a foundation for more complex projects in the future.
-
+#### Weekly Reflection
 
 # Week9  Reflection #
 ### Week of 10/31/2024
