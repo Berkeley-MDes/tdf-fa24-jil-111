@@ -36,10 +36,12 @@ Limiting the Number of Chunks: I tested various settings for the number of chunk
 
 These adjustments were crucial in fine-tuning the assistant's ability to provide accurate, relevant, and concise answers based strictly on my resume and weekly reflections. By carefully calibrating these parameters, I enhanced the assistant's performance, ensuring it met my needs effectively.
 
-![Alt text](assets/llm01.png)
 Another key aspect of my exploration involved testing different formats for the knowledge base to understand how they impacted the assistant's accuracy and effectiveness. Initially, I uploaded a PDF version of my resume, which included various icons, graphics, and formatting elements. However, I noticed that the assistant sometimes struggled to interpret the content accurately, likely because the icons and formatting introduced noise that confused the model’s processing of the text.
+![Alt text](assets/know2.png)
 
 To address this, I transformed my resume into a pure text format, removing icons, special formatting, and simplifying the structure. This adjustment made the information more straightforward and accessible for the assistant, leading to significantly improved responses. Without the added complexity of visual elements, the assistant was able to parse and retrieve the relevant content from my resume with greater accuracy, generating more precise and reliable answers.
+
+![Alt text](assets/know1.png)
 
 This experience highlighted the importance of simplifying and standardizing knowledge base content to optimize it for use in an assistant. Clean, plain-text data structures without extraneous formatting help ensure that the model can process and respond accurately based on the available information.
 
