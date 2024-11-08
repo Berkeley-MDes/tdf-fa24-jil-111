@@ -1,7 +1,7 @@
 # Week10  Reflection #
 ### Week of 11/07/2024
 #### Weekly Reflection
-![Alt text](assets/promptONE.png)
+![Alt text](assets/diagram.png)
 My System Architecture Diagram starts with Conversational Input, then processed through the Prompt Modul. The Search Knowledge node accesses specific information from the uploaded resume and weekly reflections, The processed query is passed to the OpenAI GPT-4 Module. Finally, the response is outputted through the Output Module
 
 In my exploration of prompt length, I observed distinct differences in how prompt length impacted the results across Experiment 1 and Experiment 2. In Experiment 1, I used a concise prompt that provided only the essential instructions, focusing on brevity to see if the AI could grasp the main intent without much context. The responses were often accurate but lacked depth and occasionally strayed from the specifics of my resume and weekly reflection.
