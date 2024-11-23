@@ -1,8 +1,21 @@
 # Week12  Reflection #
 ### Week of 11/21/2024
 #### Weekly Reflection
-
-
+###### Reflections
+I started to brainstorm about our final project. I want to work on something useful and practical, which can be used in our daily life. So I decided to create gesture-controlled volume adjustment device. The project is a gesture-controlled car volume adjustment device designed to improve driving safety and convenience. Using a Photon2 microcontroller, the device automatically lowers the music volume when a gesture is detected near the device. An ambient display, in the form of lights, visualizes the volume level: brighter lights indicate louder music. There are few experiments I can conduct. 
+1)Gesture Detection:
+Experiment with various gesture sensors (e.g., IR, ultrasonic, or capacitive sensors) to detect proximity and movement accurately.Test the integration of gesture input with the Photon2 microcontroller.
+2)Volume Control Simulation:
+3)Simulate volume adjustments using PWM (Pulse Width Modulation) to control LED brightness.
+Ensure smooth transitions in brightness to mimic volume adjustments.
+Ambient Light Display:
+Experiment with different LED configurations and color schemes to represent volume levels effectively.
+4)Integration and Feedback Loop:
+Connect the gesture input to the ambient light display to test the real-time interaction loop.
+Implement noise filtering to ensure the system only reacts to intentional gestures.
+5)Enclosure Design:
+Design and 3D print an enclosure to house the components, ensuring portability and aesthetic integration into a car’s interior.
+![Alt text](assets/knowledge.png)
 # Week11  Reflection #
 ### Week of 11/14/2024
 #### Weekly Reflection
