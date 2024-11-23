@@ -17,6 +17,9 @@ Implement noise filtering to ensure the system only reacts to intentional gestur
 Design and 3D print an enclosure to house the components, ensuring portability and aesthetic integration into a car’s interior.
 
 ![Alt text](assets/poster.jpg)
+
+I also worked with two other teammates o brainstorm about features that we could add to the car karaoke. 
+![Alt text](assets/groupposter.jpg)
 # Week11  Reflection #
 ### Week of 11/14/2024
 #### Weekly Reflection
