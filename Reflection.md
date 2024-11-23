@@ -15,7 +15,7 @@ Connect the gesture input to the ambient light display to test the real-time int
 Implement noise filtering to ensure the system only reacts to intentional gestures.
 5)Enclosure Design:
 Design and 3D print an enclosure to house the components, ensuring portability and aesthetic integration into a car’s interior.
-![Alt text](assets/knowledge.png)
+![Alt text](assets/poster.png)
 # Week11  Reflection #
 ### Week of 11/14/2024
 #### Weekly Reflection
