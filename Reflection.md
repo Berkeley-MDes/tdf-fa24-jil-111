@@ -11,7 +11,7 @@ This week, I focused on refining the AI assistant I developed for my learning jo
 
 Additionally, I learned the importance of formatting the knowledge base correctly. Initially, using a complex PDF format with icons led to inconsistencies in the assistant’s ability to retrieve information accurately. By simplifying the knowledge base into plain text, I was able to resolve these issues and significantly improve the accuracy of the system’s responses.
 
-![Alt text](assets/diagram.png)
+![Alt text](assets/knowledge.png)
 
 My current assessment of the project is that it’s progressing well, with the assistant able to respond accurately to a range of questions related to my coursework and professional experience. However, there is still room for improvement in terms of optimizing the assistant’s performance for handling more complex queries that span multiple knowledge areas.
 
