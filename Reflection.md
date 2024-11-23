@@ -19,7 +19,9 @@ Design and 3D print an enclosure to house the components, ensuring portability a
 ![Alt text](assets/poster.jpg)
 
 I also worked with two other teammates o brainstorm about features that we could add to the car karaoke. 
-![Alt text](assets/groupposter.jpg)
+
+![Alt text](assets/groupposter.png)
+
 # Week11  Reflection #
 ### Week of 11/14/2024
 #### Weekly Reflection
