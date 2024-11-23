@@ -15,6 +15,8 @@ Additionally, I learned the importance of formatting the knowledge base correctl
 
 My current assessment of the project is that it’s progressing well, with the assistant able to respond accurately to a range of questions related to my coursework and professional experience. However, there is still room for improvement in terms of optimizing the assistant’s performance for handling more complex queries that span multiple knowledge areas.
 
+I finished the project and wrote everything in the report. I think it would be redundent to copy and paste those here. 
+
 ###### Speculations
 Looking forward, I see opportunities to further enhance the assistant by integrating real-time feedback loops, allowing it to learn and adapt based on user interactions. This could involve implementing reinforcement learning techniques to enable the system to refine its responses over time. Additionally, expanding the knowledge base with more dynamic sources, such as industry updates or news articles related to my field of study, could make the assistant more versatile and responsive to real-world developments.
 
