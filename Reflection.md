@@ -16,7 +16,7 @@ Implement noise filtering to ensure the system only reacts to intentional gestur
 5)Enclosure Design:
 Design and 3D print an enclosure to house the components, ensuring portability and aesthetic integration into a car’s interior.
 
-![Alt text](assets/poster.png)
+![Alt text](assets/poster.jpg)
 # Week11  Reflection #
 ### Week of 11/14/2024
 #### Weekly Reflection
