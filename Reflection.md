@@ -1,3 +1,11 @@
+# Week12  Reflection #
+### Week of 11/21/2024
+#### Weekly Reflection
+
+# Week11  Reflection #
+### Week of 11/14/2024
+#### Weekly Reflection
+
 # Week10  Reflection #
 ### Week of 11/07/2024
 #### Weekly Reflection
