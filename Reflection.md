@@ -23,7 +23,8 @@ I also worked with two other teammates o brainstorm about features that we could
 ![Alt text](assets/groupposter.png)
 
 We crafted the proposal together. This project focuses on the intersection of in-car interaction design, automotive technology, and the Internet of Things (IoT) to enhance the passenger experience during road trips. A key feature is integrating karaoke functionality, offering dynamic lyric displays, and enabling interactive controls such as hand gesture detection for switching songs or adjusting volume. The system can also utilize two paired devices, one for the driver and one for rear-seat passengers, ensuring an inclusive and engaging experience for everyone in the car. The domain explores human-computer interaction (HCI) principles within the automotive environment. Additionally, it incorporates microcontroller technology for innovative, real-time displays projected onto the windshield or personal screens. To develop a dynamic in-car display system that enhances the karaoke experience through intuitive features such as hand gesture detection for song selection and volume control, and support for synchronized paired devices, enabling seamless interaction for both the driver and passengers. This system will evolve incrementally, incorporating user-centered features to create an engaging and hands-free entertainment solution for car interiors.
-
+![Alt text](assets/sytemdia2.png)
+![Alt text](assets/systemdia1.png)
 
 # Week11  Reflection #
 ### Week of 11/14/2024
