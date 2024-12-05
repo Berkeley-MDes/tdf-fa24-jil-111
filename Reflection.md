@@ -3,11 +3,15 @@
 #### Weekly Reflection
 
 ###### Reflections
-Reflection on the Diagram
+
 This week, our team focused on developing a detailed system architecture diagram to visually represent the interactions and data flow within our project. The diagram showcases how various components, such as Particle Photon2 microcontrollers, sensors, actuators, and cloud services, interact to create a cohesive digital ecosystem. Reflecting on this process provided valuable insights into our project’s technical structure, challenges, and current progress.
+
+
 
 What We Learned
 The Importance of Clear Data Flow:
+
+![Alt text](assets/diagram.png)
 
 Creating the diagram helped us identify how data flows between sensors, cloud services, and devices in the front and back seats. For example, we realized that the Particle Cloud Services act as the critical intermediary for both sending and receiving data between the two Photon2 microcontrollers.
 Roles of Individual Components:
@@ -21,7 +25,7 @@ The Complexity of Interconnectivity:
 
 Designing the diagram revealed the complexity of managing multiple components and ensuring smooth communication between them. For instance, the need for real-time synchronization of data between the Particle Cloud Services, phone APIs, and music platform emphasized the importance of low-latency communication.
 
-This week, I decided to explore the integration of ultrasonic sensors with the Particle Photon2 microcontroller, aiming to measure distances from multiple sensors and display the results in real time. My primary goal was to deepen my understanding of sensor-based systems and gain hands-on experience in programming microcontrollers to interact with external hardware. Specifically, I wanted to create a setup where two ultrasonic sensors could measure distances independently and provide meaningful feedback.
+Then, I decided to explore the integration of ultrasonic sensors with the Particle Photon2 microcontroller, aiming to measure distances from multiple sensors and display the results in real time. My primary goal was to deepen my understanding of sensor-based systems and gain hands-on experience in programming microcontrollers to interact with external hardware. Specifically, I wanted to create a setup where two ultrasonic sensors could measure distances independently and provide meaningful feedback.
 
 ###### What I Decided to Do
 I chose to work with two HC-SR04 ultrasonic sensors and connect them to the Photon2. My intention was to measure the distance from each sensor to a nearby object (e.g., my hand) and display the results on the serial monitor. This required understanding how the HC-SR04 operates, particularly its need for precise timing in triggering sound waves and capturing the echo. I also decided to slow down the update frequency of the readings to make the output more user-friendly and easier to observe.
