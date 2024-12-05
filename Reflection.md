@@ -1,3 +1,39 @@
+# Week14  Reflection #
+### Week of 12/05/2024
+#### Weekly Reflection
+###### Reflections
+
+This week, I decided to explore the integration of ultrasonic sensors with the Particle Photon2 microcontroller, aiming to measure distances from multiple sensors and display the results in real time. My primary goal was to deepen my understanding of sensor-based systems and gain hands-on experience in programming microcontrollers to interact with external hardware. Specifically, I wanted to create a setup where two ultrasonic sensors could measure distances independently and provide meaningful feedback.
+
+###### What I Decided to Do
+I chose to work with two HC-SR04 ultrasonic sensors and connect them to the Photon2. My intention was to measure the distance from each sensor to a nearby object (e.g., my hand) and display the results on the serial monitor. This required understanding how the HC-SR04 operates, particularly its need for precise timing in triggering sound waves and capturing the echo. I also decided to slow down the update frequency of the readings to make the output more user-friendly and easier to observe.
+
+###### How I Tried It
+To begin, I reviewed the technical specifications of the HC-SR04 sensor to understand its trigger (Trig) and echo (Echo) pin functionality. I started by wiring one sensor to the Photon2, ensuring proper connections for power, ground, trigger, and echo signals. Once the hardware was set up, I wrote an initial code sketch to test a single sensor, focusing on sending a trigger pulse and measuring the time it took for the echo to return.
+
+After confirming that a single sensor worked, I expanded the setup to include a second sensor, wiring it to different GPIO pins on the Photon2. I modified the code to accommodate both sensors, ensuring each sensor's trigger and echo pins were managed separately. I also added delays to slow the output frequency and debugged issues such as undefined functions (getDistance) by incorporating proper prototypes and function definitions.
+
+###### What I Achieved So Far
+By the end of the week, I successfully achieved the following:
+
+Sensor Functionality:
+
+Both sensors can measure distances independently and accurately.
+The serial monitor displays the distances for each sensor in real time, with a 2-second delay between updates to make the output more readable.
+Code Development:
+
+I implemented a reusable function (getDistance) to calculate the distance for each sensor based on the echo duration.
+Debugged common issues, such as undefined functions and improper pin configurations, and ensured the code compiled and ran without errors.
+Hardware Setup:
+
+Ensured stable and consistent wiring for two sensors, sharing power and ground connections while using separate GPIO pins for the trigger and echo signals.
+Understanding and Troubleshooting:
+
+Improved my understanding of ultrasonic sensors, particularly how timing and sound wave propagation influence distance measurements.
+Learned the importance of adding debugging statements (e.g., printing raw echo durations) to identify and resolve issues effectively.
+So far, I have a working prototype that demonstrates the ability to measure and display distances from two sensors. This setup could be a foundation for more complex projects involving obstacle detection or object tracking.
+
+
 # Week12  Reflection #
 ### Week of 11/21/2024
 #### Weekly Reflection
