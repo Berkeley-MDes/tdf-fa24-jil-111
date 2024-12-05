@@ -33,6 +33,15 @@ Improved my understanding of ultrasonic sensors, particularly how timing and sou
 Learned the importance of adding debugging statements (e.g., printing raw echo durations) to identify and resolve issues effectively.
 So far, I have a working prototype that demonstrates the ability to measure and display distances from two sensors. This setup could be a foundation for more complex projects involving obstacle detection or object tracking.
 
+###### Speculations
+While I am happy with the progress so far, there are areas I’d like to improve and expand on in the coming weeks:
+
+Real-Time Visualization:
+
+Instead of using the serial monitor, I’d like to display the distance readings on an OLED screen or send the data to a web dashboard via Wi-Fi. This would make the system more interactive and practical for real-world applications.
+Interactive Feedback:
+
+Add LEDs or sound alerts to indicate specific distance thresholds. For example, a red LED could light up if an object is too close, and a green LED could indicate a safe distance.
 
 # Week12  Reflection #
 ### Week of 11/21/2024
