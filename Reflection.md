@@ -1,7 +1,25 @@
 # Week14  Reflection #
 ### Week of 12/05/2024
 #### Weekly Reflection
+
 ###### Reflections
+Reflection on the Diagram
+This week, our team focused on developing a detailed system architecture diagram to visually represent the interactions and data flow within our project. The diagram showcases how various components, such as Particle Photon2 microcontrollers, sensors, actuators, and cloud services, interact to create a cohesive digital ecosystem. Reflecting on this process provided valuable insights into our project’s technical structure, challenges, and current progress.
+
+What We Learned
+The Importance of Clear Data Flow:
+
+Creating the diagram helped us identify how data flows between sensors, cloud services, and devices in the front and back seats. For example, we realized that the Particle Cloud Services act as the critical intermediary for both sending and receiving data between the two Photon2 microcontrollers.
+Roles of Individual Components:
+
+We gained a better understanding of the role each component plays in the system:
+The PIR Motion Detectors enable gesture-based controls, such as switching songs.
+The Loudness Sensor acts as a trigger for detecting loud external noises, such as ambulance sirens.
+The LED Displays provide visual feedback based on sensor inputs, enhancing user interactivity.
+Cloud services and APIs serve as the backbone for communication between devices, allowing data from the front seat to influence actions in the back seat and vice versa.
+The Complexity of Interconnectivity:
+
+Designing the diagram revealed the complexity of managing multiple components and ensuring smooth communication between them. For instance, the need for real-time synchronization of data between the Particle Cloud Services, phone APIs, and music platform emphasized the importance of low-latency communication.
 
 This week, I decided to explore the integration of ultrasonic sensors with the Particle Photon2 microcontroller, aiming to measure distances from multiple sensors and display the results in real time. My primary goal was to deepen my understanding of sensor-based systems and gain hands-on experience in programming microcontrollers to interact with external hardware. Specifically, I wanted to create a setup where two ultrasonic sensors could measure distances independently and provide meaningful feedback.
 
@@ -20,6 +38,8 @@ Sensor Functionality:
 
 Both sensors can measure distances independently and accurately.
 The serial monitor displays the distances for each sensor in real time, with a 2-second delay between updates to make the output more readable.
+
+![Alt text](assets/code.png)
 Code Development:
 
 I implemented a reusable function (getDistance) to calculate the distance for each sensor based on the echo duration.
