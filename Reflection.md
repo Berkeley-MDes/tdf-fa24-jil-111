@@ -251,20 +251,20 @@ The Particle Cloud Services coordinates these actions by linking the two Photon2
 # Week 7 Reflection #
 ### Week of 10/17/2024
 #### Reflections
-This week, our primary focus was on calibrating the pressure sensor and the coin slot sensor within the “Trevi Fountain” digital ecosystem. Through an iterative process of testing and adjustment, we learned how small changes in calibration can have significant impacts on system responsiveness. I worked extensively on the pressure sensor, ensuring it could differentiate between genuine user interaction and incidental touches. This task highlighted the importance of precision in sensor thresholds, as even minor adjustments in sensitivity altered the reliability of the system’s response.
+This week, our primary focus was on calibrating the pressure sensor and the coin slot sensor within the “Trevi Fountain” digital ecosystem. Through an iterative process of testing and adjustment, we learned how small changes in calibration can have significant impacts on system responsiveness. 
 
-During this process, I gained insights into error-handling techniques for digital ecosystems, learning to implement protocols that prevent multiple activations from a single press. My teammate, Jieru, focused on configuring the coin slot sensor to register coin insertions accurately and connecting this input to the servo motor that animates the wooden fish. This required several rounds of fine-tuning to ensure that the motor activated only in response to a coin insertion, adding to the ecosystem’s stability and predictability. Overall, this week’s work enhanced our understanding of the critical role of calibration and error-handling protocols in creating a reliable, user-responsive system. The current state of our work shows progress in sensor accuracy, although we recognize the need for further refinement in synchronization between the sensors and actuators to achieve seamless interactions.
+![Alt text](assets/IMG_4356.JPG)
+
+I worked extensively on the pressure sensor, ensuring it could differentiate between genuine user interaction and incidental touches. This task highlighted the importance of precision in sensor thresholds, as even minor adjustments in sensitivity altered the reliability of the system’s response.
+
+During this process, I gained insights into error-handling techniques for digital ecosystems, learning to implement protocols that prevent multiple activations from a single press. My teammate, Jieru, focused on configuring the coin slot sensor to register coin insertions accurately and connecting this input to the servo motor that animates the wooden fish. 
+
+![Alt text](assets/IMG_4384.JPG)
+![Alt text](assets/IMG_4385.JPG)
+This required several rounds of fine-tuning to ensure that the motor activated only in response to a coin insertion, adding to the ecosystem’s stability and predictability. Overall, this week’s work enhanced our understanding of the critical role of calibration and error-handling protocols in creating a reliable, user-responsive system. The current state of our work shows progress in sensor accuracy, although we recognize the need for further refinement in synchronization between the sensors and actuators to achieve seamless interactions.
 
 #### Speculations
 In future iterations, we could explore integrating more adaptive sensor calibration using machine learning, allowing the system to adjust sensor thresholds based on real-time interaction data. This could improve reliability, especially in high-traffic installations. Additionally, leveraging machine learning might allow the system to “learn” common interaction patterns, potentially enabling predictive responses that would enhance user experience. Recent developments in adaptive sensing technologies, as seen in advanced IoT installations, demonstrate the potential of this approach to optimize sensor performance without constant manual recalibration.
-
-#### Images and Videos
-Included are relevant photos of the calibrated pressure sensor and the coin slot sensor connected to Photon2 Module #2, demonstrating the adjustments we made to achieve reliable responses. Captions provide further context for each setup.
-
-![Alt text](assets/IMG_4356.JPG)
-![Alt text](assets/IMG_4384.JPG)
-![Alt text](assets/IMG_4385.JPG)
-
 
 
 
